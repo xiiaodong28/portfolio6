@@ -4,4 +4,4 @@ You are currently working on Portfolio6
 --Adding instructions to this textfile--
 1. Version control is good, said Juan
 2. Write message for each commit, said Joseph
-3. Don't forget to configure your name & email, said James.
+3. ABC
