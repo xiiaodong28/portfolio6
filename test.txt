@@ -5,3 +5,4 @@ You are currently working on Portfolio6
 1. Version control is good, said Juan
 2. Write message for each commit, said Joseph
 3. Don't forget to configure your name & email, said James.
+4.hello 
